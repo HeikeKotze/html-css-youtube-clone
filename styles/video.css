@@ -13,9 +13,7 @@
 .channel-picture {
     vertical-align: top;        
 }
-.video-info {
-    
-}
+
 .video-info-grid {
     display: grid;
     grid-template-columns: 50px 1fr;
